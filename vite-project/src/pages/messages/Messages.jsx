@@ -1,5 +1,5 @@
-import React from 'react'
-import "./Messages/scss"
+import React from 'react';
+import "./Messages.scss"
 
 const Messages = () => {
   return (
@@ -7,4 +7,4 @@ const Messages = () => {
   )
 }
 
-export default Messages
+export default Messages;

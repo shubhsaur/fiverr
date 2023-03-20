@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Register/scss"
+import "/Register.scss"
 
 const Register = () => {
   return (
@@ -7,4 +7,4 @@ const Register = () => {
   )
 }
 
-export default Register
+export default Register;

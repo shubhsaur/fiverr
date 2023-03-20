@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Orders/scss"
+import "./Orders.scss"
 
 const Orders = () => {
   return (
@@ -7,4 +7,4 @@ const Orders = () => {
   )
 }
 
-export default Orders
+export default Orders;

@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Gigs/scss";
+import "./Gigs.scss";
 
 const Gigs = () => {
   return (
@@ -7,4 +7,4 @@ const Gigs = () => {
   )
 }
 
-export default Gigs
+export default Gigs;

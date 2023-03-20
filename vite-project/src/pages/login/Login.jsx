@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Login/scss"
+import "./Login.scss"
 
 const Login = () => {
   return (
@@ -7,4 +7,4 @@ const Login = () => {
   )
 }
 
-export default Login
+export default Login;

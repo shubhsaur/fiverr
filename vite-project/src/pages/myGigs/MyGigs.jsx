@@ -1,5 +1,5 @@
 import React from 'react'
-import "./MyGigs/scss"
+import "./MyGigs.scss"
 
 const MyGigs = () => {
   return (
@@ -7,4 +7,4 @@ const MyGigs = () => {
   )
 }
 
-export default MyGigs
+export default MyGigs;
